@@ -1,0 +1,13 @@
+Vehicle 0: Position (30.240000, 15.120000)
+Vehicle 1: Position (30.240000, 15.120000)
+Vehicle 2: Position (30.240000, 15.120000)
+Vehicle 3: Position (30.240000, 15.120000)
+Vehicle 4: Position (30.240000, 15.120000)
+Vehicle 5: Position (30.240000, 15.120000)
+Vehicle 6: Position (30.240000, 15.120000)
+Vehicle 7: Position (30.240000, 15.120000)
+Vehicle 8: Position (30.240000, 15.120000)
+Vehicle 9: Position (30.240000, 15.120000)
+Traffic Light: State RED
+Traffic Light: State GREEN
+Traffic Light: State YELLOW

@@ -1,2 +1,2 @@
 # TraffIQ AI
-A Java project for UMGC coursework.
+AI-powered traffic light controller simulator with live vehicle logic in JavaFX.
